@@ -9,5 +9,3 @@ Run the following commands:
     
     npx expo start 
 
-# Screenshots
-
